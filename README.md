@@ -6,4 +6,4 @@ an advising system where the dealer will tell you whether
 to hit or stay.
 
 
-Written for CS401
+Written for CS401 (Spring 2013)
